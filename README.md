@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Afeefa Ahmad<br><br>- 🔭 I’m  a **Data enthusiast**<br><br>- 🌱 I’m currently learning **React Js**<br><br>- 📫 How to reach me **heyiamafeefa@gmail.com**<br>
+Hi 👋, I'm Afeefa Ahmad<br><br>- 🔭 I’m  a **Data enthusiast**<br><br>- 🌱 I’ve worked on **asp.net, sql server,mongo db, postmann, React Js**<br><br>- 📫 How to reach me **heyiamafeefa@gmail.com**<br>
 
 
 ## 🌐 Socials:
